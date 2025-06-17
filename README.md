@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>رحلة المهندس المحترف</title>
+  <title>برامــج الطاقة الشمسية</title>
   <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet" />
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Cairo', sans-serif; }
@@ -144,7 +144,7 @@
   <section id="video">
     <h2 style="margin-bottom: 20px;">🎥 أهمية البرامج فى قطاع الطاقة الشمسية</h2>
     <iframe width="800" height="450"
-      src="https://youtu.be/s9BNUR9ZF70"
+      src="https://www.youtube.com/embed/s9BNUR9ZF70"
       frameborder="0" allowfullscreen></iframe>
   </section>
 
