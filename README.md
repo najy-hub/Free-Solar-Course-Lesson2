@@ -137,14 +137,14 @@
     <div class="hero-content">
       <h2>رحلتك تبدأ من هنا</h2>
       <p>دورة متكاملة لتعلم تصميم وتنفيذ أنظمة الطاقة الشمسية بطرق عملية وعلمية.</p>
-      <a href="#video" class="button">شاهد المقدمة</a>
+      <a href="#video" class="button">شــاهد المحاضرة</a>
     </div>
   </section>
 
   <section id="video">
-    <h2 style="margin-bottom: 20px;">🎥 المحاضرة</h2>
+    <h2 style="margin-bottom: 20px;">🎥 أهمية البرامج فى قطاع الطاقة الشمسية</h2>
     <iframe width="800" height="450"
-      src="https://www.youtube.com/embed/zW9ZX-SZKtE"
+      src="https://youtu.be/s9BNUR9ZF70"
       frameborder="0" allowfullscreen></iframe>
   </section>
 
